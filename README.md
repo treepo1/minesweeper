@@ -1,5 +1,7 @@
 # minesweeper
-a simple terminal minesweeper game
+a simple terminal minesweeper game made with python
+
+
 How to play: 
 The code has 3 necessary functions to play
 => click() wich take a row and collumn  and click on the cell you want
